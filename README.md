@@ -39,3 +39,5 @@ If you plan on Only using the Chuck as a synchronous planetary you only need to 
 a spacer (https://www.mcmaster.com/94669A349/) this saves some money but makes you unable to use the offset workholding feature.
 
 [Click Here](https://github.com/amasarac/OpenChuck/archive/refs/heads/main.zip) To Download Plans
+
+[Click here](https://htmlpreview.github.io/?https://github.com/amasarac/OpenChuck/blob/main/Sheet1.html) for Build of Materials
