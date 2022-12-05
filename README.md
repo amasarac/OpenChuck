@@ -11,6 +11,9 @@ Our design goals were reached by using primarily off the shelf components as the
 All designs have step by step instructions on how to fabricate and locate each part that is not off the shelf.
 Layout is to be preformed using only a compass, straightedge, and protractor. (dychem layout fluid optional)
 
+This chuck can be used in both an asynchronous and synchronous modes depending on if you have three worm gears installed or one worm gear
+installed and the GT2 timing belt.
+
 Three Drill Bits(5mm,6mm,13mm) will be required if you are making this for anything other than an OpenLathe with a k11 or k12 sanau chuck.
 If you are adapting to the k11-12 series SANAU chuck with pillow block and stepper motor drive you will also need a 14mm drill bit.
 
