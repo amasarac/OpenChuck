@@ -4,7 +4,7 @@
 ## Open Source Planetary Chuck for Glass Lathes
 
 **This projects goal is to expand the capabilities of the Kube OpenLathe by allowing much larger tube to be held within the chuck.
-Its planetary arm design allows for much larger work holding than other commercially availible chucks.
+Its planetary arm design allows for much larger work holding than other commercially availible stepper powered 4th axis.
 Primary design goals are the ability to make the chuck without need for CNC tools or expensive equipment.
 Our design goals were reached by using primarily off the shelf components as the basis of the chuck.**
 
